@@ -5,7 +5,7 @@ I'm Esteban Martin
 💻 About Me 💻
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 
-🎓   Graduated in Electronic Arts. Graduated in Audiovisual Production, currently studying Front-End development.
+🎓  Electronic Arts. Graduated in Audiovisual Production, currently studying Front-End development.
 
 🌱   Learning React.js
 
@@ -16,7 +16,7 @@ I'm Esteban Martin
 HTML5 CSS3 JavaScript Arduino
 
 💻   Frameworks, Platforms and Libraries
-Bootstrap React jQuery SASS TailwindCSS Material UI
+Bootstrap React jQuery SASS Material UI
 
 🎨🖌   Design
 Adobe Adobe Illustrator Adobe Photoshop Adobe InDesign Adobe XD Figma Canva WordPress
@@ -26,18 +26,9 @@ Adobe Adobe Illustrator Adobe Photoshop Adobe InDesign Adobe XD Figma Canva Word
 Git GitHub Raspberry Pi NPM Visual Studio Code Windows 10 IOS Linux Brave Google Chrome Microsoft Excel Notion
 
 📺   Audiovisual
-  | Adobe Premiere | After Effects | Resolume Arena | OBS Streaming |
+
 🛠 To Learn
 🔧   Backend Stack
 ⚙️ GitHub Analytics
  
 📞 Connect with Me
-Website
-
-Website
-
-LinkedIn
-
-Instagram
-
-Email
