@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Esteban Martin</h2>
 
-<img align='center' src="https://portal.sinai.com.co/wp-content/uploads/2019/07/alphatestersanimation2.gif" width="230">
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <h3>💻 About Me 💻</h3>
 
