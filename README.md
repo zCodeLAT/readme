@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Esteban Martin</h2>
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="center" position="absolute" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <h3>💻 About Me 💻</h3>
 
