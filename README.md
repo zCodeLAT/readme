@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<a href="https://zcodelat.github.io/em-website/"><img alt="Website" src="https://img.shields.io/badge/zcodelat.github.io/em-website/#portfolio-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://zcodelat.github.io/portfolio"><img alt="Website" src="https://img.shields.io/badge/zcodelat.github.io/em-website/#portfolio-black?style=flat-square&logo=google-chrome"></a>
 
 
 <a href="https://www.linkedin.com/in/esteban-martin7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Esteban%20Martin-blue?style=flat-square&logo=linkedin"></a>
